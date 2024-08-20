@@ -1,0 +1,14 @@
+D:\Edu\BackEnd\C-Sharp\ITI\ITI_Tasks\SortEmployeesMenu\bin\Debug\net8.0\SortEmployeesMenu.exe
+D:\Edu\BackEnd\C-Sharp\ITI\ITI_Tasks\SortEmployeesMenu\bin\Debug\net8.0\SortEmployeesMenu.deps.json
+D:\Edu\BackEnd\C-Sharp\ITI\ITI_Tasks\SortEmployeesMenu\bin\Debug\net8.0\SortEmployeesMenu.runtimeconfig.json
+D:\Edu\BackEnd\C-Sharp\ITI\ITI_Tasks\SortEmployeesMenu\bin\Debug\net8.0\SortEmployeesMenu.dll
+D:\Edu\BackEnd\C-Sharp\ITI\ITI_Tasks\SortEmployeesMenu\bin\Debug\net8.0\SortEmployeesMenu.pdb
+D:\Edu\BackEnd\C-Sharp\ITI\ITI_Tasks\SortEmployeesMenu\obj\Debug\net8.0\SortEmployeesMenu.GeneratedMSBuildEditorConfig.editorconfig
+D:\Edu\BackEnd\C-Sharp\ITI\ITI_Tasks\SortEmployeesMenu\obj\Debug\net8.0\SortEmployeesMenu.AssemblyInfoInputs.cache
+D:\Edu\BackEnd\C-Sharp\ITI\ITI_Tasks\SortEmployeesMenu\obj\Debug\net8.0\SortEmployeesMenu.AssemblyInfo.cs
+D:\Edu\BackEnd\C-Sharp\ITI\ITI_Tasks\SortEmployeesMenu\obj\Debug\net8.0\SortEmployeesMenu.csproj.CoreCompileInputs.cache
+D:\Edu\BackEnd\C-Sharp\ITI\ITI_Tasks\SortEmployeesMenu\obj\Debug\net8.0\SortEmployeesMenu.dll
+D:\Edu\BackEnd\C-Sharp\ITI\ITI_Tasks\SortEmployeesMenu\obj\Debug\net8.0\refint\SortEmployeesMenu.dll
+D:\Edu\BackEnd\C-Sharp\ITI\ITI_Tasks\SortEmployeesMenu\obj\Debug\net8.0\SortEmployeesMenu.pdb
+D:\Edu\BackEnd\C-Sharp\ITI\ITI_Tasks\SortEmployeesMenu\obj\Debug\net8.0\SortEmployeesMenu.genruntimeconfig.cache
+D:\Edu\BackEnd\C-Sharp\ITI\ITI_Tasks\SortEmployeesMenu\obj\Debug\net8.0\ref\SortEmployeesMenu.dll

@@ -1,0 +1,14 @@
+D:\Edu\BackEnd\C-Sharp\ITI\ITI_Tasks\GenericStack\obj\Debug\net8.0\GenericStack.GeneratedMSBuildEditorConfig.editorconfig
+D:\Edu\BackEnd\C-Sharp\ITI\ITI_Tasks\GenericStack\obj\Debug\net8.0\GenericStack.AssemblyInfoInputs.cache
+D:\Edu\BackEnd\C-Sharp\ITI\ITI_Tasks\GenericStack\obj\Debug\net8.0\GenericStack.AssemblyInfo.cs
+D:\Edu\BackEnd\C-Sharp\ITI\ITI_Tasks\GenericStack\obj\Debug\net8.0\GenericStack.csproj.CoreCompileInputs.cache
+D:\Edu\BackEnd\C-Sharp\ITI\ITI_Tasks\GenericStack\bin\Debug\net8.0\GenericStack.exe
+D:\Edu\BackEnd\C-Sharp\ITI\ITI_Tasks\GenericStack\bin\Debug\net8.0\GenericStack.deps.json
+D:\Edu\BackEnd\C-Sharp\ITI\ITI_Tasks\GenericStack\bin\Debug\net8.0\GenericStack.runtimeconfig.json
+D:\Edu\BackEnd\C-Sharp\ITI\ITI_Tasks\GenericStack\bin\Debug\net8.0\GenericStack.dll
+D:\Edu\BackEnd\C-Sharp\ITI\ITI_Tasks\GenericStack\bin\Debug\net8.0\GenericStack.pdb
+D:\Edu\BackEnd\C-Sharp\ITI\ITI_Tasks\GenericStack\obj\Debug\net8.0\GenericStack.dll
+D:\Edu\BackEnd\C-Sharp\ITI\ITI_Tasks\GenericStack\obj\Debug\net8.0\refint\GenericStack.dll
+D:\Edu\BackEnd\C-Sharp\ITI\ITI_Tasks\GenericStack\obj\Debug\net8.0\GenericStack.pdb
+D:\Edu\BackEnd\C-Sharp\ITI\ITI_Tasks\GenericStack\obj\Debug\net8.0\GenericStack.genruntimeconfig.cache
+D:\Edu\BackEnd\C-Sharp\ITI\ITI_Tasks\GenericStack\obj\Debug\net8.0\ref\GenericStack.dll

@@ -1,0 +1,14 @@
+D:\Edu\BackEnd\C-Sharp\ITI\ITI_Tasks\EmployeeMenuSortFind\bin\Debug\net8.0\EmployeeMenuSortFind.exe
+D:\Edu\BackEnd\C-Sharp\ITI\ITI_Tasks\EmployeeMenuSortFind\bin\Debug\net8.0\EmployeeMenuSortFind.deps.json
+D:\Edu\BackEnd\C-Sharp\ITI\ITI_Tasks\EmployeeMenuSortFind\bin\Debug\net8.0\EmployeeMenuSortFind.runtimeconfig.json
+D:\Edu\BackEnd\C-Sharp\ITI\ITI_Tasks\EmployeeMenuSortFind\bin\Debug\net8.0\EmployeeMenuSortFind.dll
+D:\Edu\BackEnd\C-Sharp\ITI\ITI_Tasks\EmployeeMenuSortFind\bin\Debug\net8.0\EmployeeMenuSortFind.pdb
+D:\Edu\BackEnd\C-Sharp\ITI\ITI_Tasks\EmployeeMenuSortFind\obj\Debug\net8.0\EmployeeMenuSortFind.GeneratedMSBuildEditorConfig.editorconfig
+D:\Edu\BackEnd\C-Sharp\ITI\ITI_Tasks\EmployeeMenuSortFind\obj\Debug\net8.0\EmployeeMenuSortFind.AssemblyInfoInputs.cache
+D:\Edu\BackEnd\C-Sharp\ITI\ITI_Tasks\EmployeeMenuSortFind\obj\Debug\net8.0\EmployeeMenuSortFind.AssemblyInfo.cs
+D:\Edu\BackEnd\C-Sharp\ITI\ITI_Tasks\EmployeeMenuSortFind\obj\Debug\net8.0\EmployeeMenuSortFind.csproj.CoreCompileInputs.cache
+D:\Edu\BackEnd\C-Sharp\ITI\ITI_Tasks\EmployeeMenuSortFind\obj\Debug\net8.0\EmployeeMenuSortFind.dll
+D:\Edu\BackEnd\C-Sharp\ITI\ITI_Tasks\EmployeeMenuSortFind\obj\Debug\net8.0\refint\EmployeeMenuSortFind.dll
+D:\Edu\BackEnd\C-Sharp\ITI\ITI_Tasks\EmployeeMenuSortFind\obj\Debug\net8.0\EmployeeMenuSortFind.pdb
+D:\Edu\BackEnd\C-Sharp\ITI\ITI_Tasks\EmployeeMenuSortFind\obj\Debug\net8.0\EmployeeMenuSortFind.genruntimeconfig.cache
+D:\Edu\BackEnd\C-Sharp\ITI\ITI_Tasks\EmployeeMenuSortFind\obj\Debug\net8.0\ref\EmployeeMenuSortFind.dll

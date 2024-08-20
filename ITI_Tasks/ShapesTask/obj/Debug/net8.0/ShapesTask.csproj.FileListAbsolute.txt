@@ -1,0 +1,14 @@
+D:\Edu\BackEnd\C-Sharp\ITI\ITI_Tasks\ShapesTask\bin\Debug\net8.0\ShapesTask.exe
+D:\Edu\BackEnd\C-Sharp\ITI\ITI_Tasks\ShapesTask\bin\Debug\net8.0\ShapesTask.deps.json
+D:\Edu\BackEnd\C-Sharp\ITI\ITI_Tasks\ShapesTask\bin\Debug\net8.0\ShapesTask.runtimeconfig.json
+D:\Edu\BackEnd\C-Sharp\ITI\ITI_Tasks\ShapesTask\bin\Debug\net8.0\ShapesTask.dll
+D:\Edu\BackEnd\C-Sharp\ITI\ITI_Tasks\ShapesTask\bin\Debug\net8.0\ShapesTask.pdb
+D:\Edu\BackEnd\C-Sharp\ITI\ITI_Tasks\ShapesTask\obj\Debug\net8.0\ShapesTask.GeneratedMSBuildEditorConfig.editorconfig
+D:\Edu\BackEnd\C-Sharp\ITI\ITI_Tasks\ShapesTask\obj\Debug\net8.0\ShapesTask.AssemblyInfoInputs.cache
+D:\Edu\BackEnd\C-Sharp\ITI\ITI_Tasks\ShapesTask\obj\Debug\net8.0\ShapesTask.AssemblyInfo.cs
+D:\Edu\BackEnd\C-Sharp\ITI\ITI_Tasks\ShapesTask\obj\Debug\net8.0\ShapesTask.csproj.CoreCompileInputs.cache
+D:\Edu\BackEnd\C-Sharp\ITI\ITI_Tasks\ShapesTask\obj\Debug\net8.0\ShapesTask.dll
+D:\Edu\BackEnd\C-Sharp\ITI\ITI_Tasks\ShapesTask\obj\Debug\net8.0\refint\ShapesTask.dll
+D:\Edu\BackEnd\C-Sharp\ITI\ITI_Tasks\ShapesTask\obj\Debug\net8.0\ShapesTask.pdb
+D:\Edu\BackEnd\C-Sharp\ITI\ITI_Tasks\ShapesTask\obj\Debug\net8.0\ShapesTask.genruntimeconfig.cache
+D:\Edu\BackEnd\C-Sharp\ITI\ITI_Tasks\ShapesTask\obj\Debug\net8.0\ref\ShapesTask.dll

@@ -1,0 +1,11 @@
+D:\Edu\BackEnd\C-Sharp\ITI\ITI_Tasks\Employee\bin\Debug\net8.0\Employee.deps.json
+D:\Edu\BackEnd\C-Sharp\ITI\ITI_Tasks\Employee\bin\Debug\net8.0\Employee.dll
+D:\Edu\BackEnd\C-Sharp\ITI\ITI_Tasks\Employee\bin\Debug\net8.0\Employee.pdb
+D:\Edu\BackEnd\C-Sharp\ITI\ITI_Tasks\Employee\obj\Debug\net8.0\Employee.GeneratedMSBuildEditorConfig.editorconfig
+D:\Edu\BackEnd\C-Sharp\ITI\ITI_Tasks\Employee\obj\Debug\net8.0\Employee.AssemblyInfoInputs.cache
+D:\Edu\BackEnd\C-Sharp\ITI\ITI_Tasks\Employee\obj\Debug\net8.0\Employee.AssemblyInfo.cs
+D:\Edu\BackEnd\C-Sharp\ITI\ITI_Tasks\Employee\obj\Debug\net8.0\Employee.csproj.CoreCompileInputs.cache
+D:\Edu\BackEnd\C-Sharp\ITI\ITI_Tasks\Employee\obj\Debug\net8.0\Employee.dll
+D:\Edu\BackEnd\C-Sharp\ITI\ITI_Tasks\Employee\obj\Debug\net8.0\refint\Employee.dll
+D:\Edu\BackEnd\C-Sharp\ITI\ITI_Tasks\Employee\obj\Debug\net8.0\Employee.pdb
+D:\Edu\BackEnd\C-Sharp\ITI\ITI_Tasks\Employee\obj\Debug\net8.0\ref\Employee.dll

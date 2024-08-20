@@ -1,0 +1,14 @@
+D:\Edu\BackEnd\C-Sharp\ITI\ITI_Tasks\EmployeeInhiresHumanMenu\bin\Debug\net8.0\EmployeeInhiresHumanMenu.exe
+D:\Edu\BackEnd\C-Sharp\ITI\ITI_Tasks\EmployeeInhiresHumanMenu\bin\Debug\net8.0\EmployeeInhiresHumanMenu.deps.json
+D:\Edu\BackEnd\C-Sharp\ITI\ITI_Tasks\EmployeeInhiresHumanMenu\bin\Debug\net8.0\EmployeeInhiresHumanMenu.runtimeconfig.json
+D:\Edu\BackEnd\C-Sharp\ITI\ITI_Tasks\EmployeeInhiresHumanMenu\bin\Debug\net8.0\EmployeeInhiresHumanMenu.dll
+D:\Edu\BackEnd\C-Sharp\ITI\ITI_Tasks\EmployeeInhiresHumanMenu\bin\Debug\net8.0\EmployeeInhiresHumanMenu.pdb
+D:\Edu\BackEnd\C-Sharp\ITI\ITI_Tasks\EmployeeInhiresHumanMenu\obj\Debug\net8.0\EmployeeInhiresHumanMenu.GeneratedMSBuildEditorConfig.editorconfig
+D:\Edu\BackEnd\C-Sharp\ITI\ITI_Tasks\EmployeeInhiresHumanMenu\obj\Debug\net8.0\EmployeeInhiresHumanMenu.AssemblyInfoInputs.cache
+D:\Edu\BackEnd\C-Sharp\ITI\ITI_Tasks\EmployeeInhiresHumanMenu\obj\Debug\net8.0\EmployeeInhiresHumanMenu.AssemblyInfo.cs
+D:\Edu\BackEnd\C-Sharp\ITI\ITI_Tasks\EmployeeInhiresHumanMenu\obj\Debug\net8.0\EmployeeInhiresHumanMenu.csproj.CoreCompileInputs.cache
+D:\Edu\BackEnd\C-Sharp\ITI\ITI_Tasks\EmployeeInhiresHumanMenu\obj\Debug\net8.0\EmployeeInhiresHumanMenu.dll
+D:\Edu\BackEnd\C-Sharp\ITI\ITI_Tasks\EmployeeInhiresHumanMenu\obj\Debug\net8.0\refint\EmployeeInhiresHumanMenu.dll
+D:\Edu\BackEnd\C-Sharp\ITI\ITI_Tasks\EmployeeInhiresHumanMenu\obj\Debug\net8.0\EmployeeInhiresHumanMenu.pdb
+D:\Edu\BackEnd\C-Sharp\ITI\ITI_Tasks\EmployeeInhiresHumanMenu\obj\Debug\net8.0\EmployeeInhiresHumanMenu.genruntimeconfig.cache
+D:\Edu\BackEnd\C-Sharp\ITI\ITI_Tasks\EmployeeInhiresHumanMenu\obj\Debug\net8.0\ref\EmployeeInhiresHumanMenu.dll

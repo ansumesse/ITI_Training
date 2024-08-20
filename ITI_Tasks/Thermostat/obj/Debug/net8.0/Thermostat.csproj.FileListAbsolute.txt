@@ -1,0 +1,14 @@
+D:\Edu\BackEnd\C-Sharp\ITI\ITI_Tasks\Thermostat\bin\Debug\net8.0\Thermostat.exe
+D:\Edu\BackEnd\C-Sharp\ITI\ITI_Tasks\Thermostat\bin\Debug\net8.0\Thermostat.deps.json
+D:\Edu\BackEnd\C-Sharp\ITI\ITI_Tasks\Thermostat\bin\Debug\net8.0\Thermostat.runtimeconfig.json
+D:\Edu\BackEnd\C-Sharp\ITI\ITI_Tasks\Thermostat\bin\Debug\net8.0\Thermostat.dll
+D:\Edu\BackEnd\C-Sharp\ITI\ITI_Tasks\Thermostat\bin\Debug\net8.0\Thermostat.pdb
+D:\Edu\BackEnd\C-Sharp\ITI\ITI_Tasks\Thermostat\obj\Debug\net8.0\Thermostat.GeneratedMSBuildEditorConfig.editorconfig
+D:\Edu\BackEnd\C-Sharp\ITI\ITI_Tasks\Thermostat\obj\Debug\net8.0\Thermostat.AssemblyInfoInputs.cache
+D:\Edu\BackEnd\C-Sharp\ITI\ITI_Tasks\Thermostat\obj\Debug\net8.0\Thermostat.AssemblyInfo.cs
+D:\Edu\BackEnd\C-Sharp\ITI\ITI_Tasks\Thermostat\obj\Debug\net8.0\Thermostat.csproj.CoreCompileInputs.cache
+D:\Edu\BackEnd\C-Sharp\ITI\ITI_Tasks\Thermostat\obj\Debug\net8.0\Thermostat.dll
+D:\Edu\BackEnd\C-Sharp\ITI\ITI_Tasks\Thermostat\obj\Debug\net8.0\refint\Thermostat.dll
+D:\Edu\BackEnd\C-Sharp\ITI\ITI_Tasks\Thermostat\obj\Debug\net8.0\Thermostat.pdb
+D:\Edu\BackEnd\C-Sharp\ITI\ITI_Tasks\Thermostat\obj\Debug\net8.0\Thermostat.genruntimeconfig.cache
+D:\Edu\BackEnd\C-Sharp\ITI\ITI_Tasks\Thermostat\obj\Debug\net8.0\ref\Thermostat.dll

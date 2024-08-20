@@ -1,0 +1,14 @@
+D:\Edu\BackEnd\C-Sharp\ITI\ITI_Tasks\Day-03\obj\Debug\net8.0\Day-03.GeneratedMSBuildEditorConfig.editorconfig
+D:\Edu\BackEnd\C-Sharp\ITI\ITI_Tasks\Day-03\obj\Debug\net8.0\Day-03.AssemblyInfoInputs.cache
+D:\Edu\BackEnd\C-Sharp\ITI\ITI_Tasks\Day-03\obj\Debug\net8.0\Day-03.AssemblyInfo.cs
+D:\Edu\BackEnd\C-Sharp\ITI\ITI_Tasks\Day-03\obj\Debug\net8.0\Day-03.csproj.CoreCompileInputs.cache
+D:\Edu\BackEnd\C-Sharp\ITI\ITI_Tasks\Day-03\bin\Debug\net8.0\Day-03.exe
+D:\Edu\BackEnd\C-Sharp\ITI\ITI_Tasks\Day-03\bin\Debug\net8.0\Day-03.deps.json
+D:\Edu\BackEnd\C-Sharp\ITI\ITI_Tasks\Day-03\bin\Debug\net8.0\Day-03.runtimeconfig.json
+D:\Edu\BackEnd\C-Sharp\ITI\ITI_Tasks\Day-03\bin\Debug\net8.0\Day-03.dll
+D:\Edu\BackEnd\C-Sharp\ITI\ITI_Tasks\Day-03\bin\Debug\net8.0\Day-03.pdb
+D:\Edu\BackEnd\C-Sharp\ITI\ITI_Tasks\Day-03\obj\Debug\net8.0\Day-03.dll
+D:\Edu\BackEnd\C-Sharp\ITI\ITI_Tasks\Day-03\obj\Debug\net8.0\refint\Day-03.dll
+D:\Edu\BackEnd\C-Sharp\ITI\ITI_Tasks\Day-03\obj\Debug\net8.0\Day-03.pdb
+D:\Edu\BackEnd\C-Sharp\ITI\ITI_Tasks\Day-03\obj\Debug\net8.0\Day-03.genruntimeconfig.cache
+D:\Edu\BackEnd\C-Sharp\ITI\ITI_Tasks\Day-03\obj\Debug\net8.0\ref\Day-03.dll

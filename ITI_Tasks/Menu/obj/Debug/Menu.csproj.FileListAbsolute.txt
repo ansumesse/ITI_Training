@@ -1,0 +1,7 @@
+D:\Edu\BackEnd\C-Sharp\ITI\ITI_Tasks\Menu\bin\Debug\Menu.exe.config
+D:\Edu\BackEnd\C-Sharp\ITI\ITI_Tasks\Menu\bin\Debug\Menu.exe
+D:\Edu\BackEnd\C-Sharp\ITI\ITI_Tasks\Menu\bin\Debug\Menu.pdb
+D:\Edu\BackEnd\C-Sharp\ITI\ITI_Tasks\Menu\obj\Debug\Menu.csproj.AssemblyReference.cache
+D:\Edu\BackEnd\C-Sharp\ITI\ITI_Tasks\Menu\obj\Debug\Menu.csproj.CoreCompileInputs.cache
+D:\Edu\BackEnd\C-Sharp\ITI\ITI_Tasks\Menu\obj\Debug\Menu.exe
+D:\Edu\BackEnd\C-Sharp\ITI\ITI_Tasks\Menu\obj\Debug\Menu.pdb

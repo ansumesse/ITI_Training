@@ -1,0 +1,14 @@
+D:\Edu\BackEnd\C-Sharp\ITI\ITI_Tasks\EmployeeSortUsingAnonymousMethod\bin\Debug\net8.0\EmployeeSortUsingAnonymousMethod.exe
+D:\Edu\BackEnd\C-Sharp\ITI\ITI_Tasks\EmployeeSortUsingAnonymousMethod\bin\Debug\net8.0\EmployeeSortUsingAnonymousMethod.deps.json
+D:\Edu\BackEnd\C-Sharp\ITI\ITI_Tasks\EmployeeSortUsingAnonymousMethod\bin\Debug\net8.0\EmployeeSortUsingAnonymousMethod.runtimeconfig.json
+D:\Edu\BackEnd\C-Sharp\ITI\ITI_Tasks\EmployeeSortUsingAnonymousMethod\bin\Debug\net8.0\EmployeeSortUsingAnonymousMethod.dll
+D:\Edu\BackEnd\C-Sharp\ITI\ITI_Tasks\EmployeeSortUsingAnonymousMethod\bin\Debug\net8.0\EmployeeSortUsingAnonymousMethod.pdb
+D:\Edu\BackEnd\C-Sharp\ITI\ITI_Tasks\EmployeeSortUsingAnonymousMethod\obj\Debug\net8.0\EmployeeSortUsingAnonymousMethod.GeneratedMSBuildEditorConfig.editorconfig
+D:\Edu\BackEnd\C-Sharp\ITI\ITI_Tasks\EmployeeSortUsingAnonymousMethod\obj\Debug\net8.0\EmployeeSortUsingAnonymousMethod.AssemblyInfoInputs.cache
+D:\Edu\BackEnd\C-Sharp\ITI\ITI_Tasks\EmployeeSortUsingAnonymousMethod\obj\Debug\net8.0\EmployeeSortUsingAnonymousMethod.AssemblyInfo.cs
+D:\Edu\BackEnd\C-Sharp\ITI\ITI_Tasks\EmployeeSortUsingAnonymousMethod\obj\Debug\net8.0\EmployeeSortUsingAnonymousMethod.csproj.CoreCompileInputs.cache
+D:\Edu\BackEnd\C-Sharp\ITI\ITI_Tasks\EmployeeSortUsingAnonymousMethod\obj\Debug\net8.0\EmployeeSortUsingAnonymousMethod.dll
+D:\Edu\BackEnd\C-Sharp\ITI\ITI_Tasks\EmployeeSortUsingAnonymousMethod\obj\Debug\net8.0\refint\EmployeeSortUsingAnonymousMethod.dll
+D:\Edu\BackEnd\C-Sharp\ITI\ITI_Tasks\EmployeeSortUsingAnonymousMethod\obj\Debug\net8.0\EmployeeSortUsingAnonymousMethod.pdb
+D:\Edu\BackEnd\C-Sharp\ITI\ITI_Tasks\EmployeeSortUsingAnonymousMethod\obj\Debug\net8.0\EmployeeSortUsingAnonymousMethod.genruntimeconfig.cache
+D:\Edu\BackEnd\C-Sharp\ITI\ITI_Tasks\EmployeeSortUsingAnonymousMethod\obj\Debug\net8.0\ref\EmployeeSortUsingAnonymousMethod.dll

@@ -1,0 +1,14 @@
+D:\Edu\BackEnd\C-Sharp\ITI\ITI_Tasks\MyStack\bin\Debug\net8.0\MyStack.exe
+D:\Edu\BackEnd\C-Sharp\ITI\ITI_Tasks\MyStack\bin\Debug\net8.0\MyStack.deps.json
+D:\Edu\BackEnd\C-Sharp\ITI\ITI_Tasks\MyStack\bin\Debug\net8.0\MyStack.runtimeconfig.json
+D:\Edu\BackEnd\C-Sharp\ITI\ITI_Tasks\MyStack\bin\Debug\net8.0\MyStack.dll
+D:\Edu\BackEnd\C-Sharp\ITI\ITI_Tasks\MyStack\bin\Debug\net8.0\MyStack.pdb
+D:\Edu\BackEnd\C-Sharp\ITI\ITI_Tasks\MyStack\obj\Debug\net8.0\MyStack.GeneratedMSBuildEditorConfig.editorconfig
+D:\Edu\BackEnd\C-Sharp\ITI\ITI_Tasks\MyStack\obj\Debug\net8.0\MyStack.AssemblyInfoInputs.cache
+D:\Edu\BackEnd\C-Sharp\ITI\ITI_Tasks\MyStack\obj\Debug\net8.0\MyStack.AssemblyInfo.cs
+D:\Edu\BackEnd\C-Sharp\ITI\ITI_Tasks\MyStack\obj\Debug\net8.0\MyStack.csproj.CoreCompileInputs.cache
+D:\Edu\BackEnd\C-Sharp\ITI\ITI_Tasks\MyStack\obj\Debug\net8.0\MyStack.dll
+D:\Edu\BackEnd\C-Sharp\ITI\ITI_Tasks\MyStack\obj\Debug\net8.0\refint\MyStack.dll
+D:\Edu\BackEnd\C-Sharp\ITI\ITI_Tasks\MyStack\obj\Debug\net8.0\MyStack.pdb
+D:\Edu\BackEnd\C-Sharp\ITI\ITI_Tasks\MyStack\obj\Debug\net8.0\MyStack.genruntimeconfig.cache
+D:\Edu\BackEnd\C-Sharp\ITI\ITI_Tasks\MyStack\obj\Debug\net8.0\ref\MyStack.dll
